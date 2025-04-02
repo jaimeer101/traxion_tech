@@ -1,0 +1,253 @@
+﻿Installing assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Installing service MyNewService...
+Creating EventLog source MyNewService in log Application...
+Rolling back assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Restoring event log to previous state for source MyNewService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Installing service MyNewService...
+Creating EventLog source MyNewService in log Application...
+Rolling back assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Restoring event log to previous state for source MyNewService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Installing service MyNewService...
+Service MyNewService has been successfully installed.
+Creating EventLog source MyNewService in log Application...
+Committing assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Installing assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Installing service MyNewService...
+Creating EventLog source MyNewService in log Application...
+Rolling back assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Restoring event log to previous state for source MyNewService.
+Installing assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Installing service MyNewService...
+Creating EventLog source MyNewService in log Application...
+Rolling back assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Restoring event log to previous state for source MyNewService.
+Installing assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Installing service MyNewService...
+Creating EventLog source MyNewService in log Application...
+Rolling back assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Restoring event log to previous state for source MyNewService.
+Installing assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Installing service MyNewService...
+Creating EventLog source MyNewService in log Application...
+Rolling back assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Restoring event log to previous state for source MyNewService.
+Installing assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Installing service MyNewService...
+Creating EventLog source MyNewService in log Application...
+Rolling back assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Restoring event log to previous state for source MyNewService.
+Installing assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Installing service MyNewService...
+Creating EventLog source MyNewService in log Application...
+Rolling back assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Restoring event log to previous state for source MyNewService.
+Installing assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Installing service MyNewService...
+Creating EventLog source MyNewService in log Application...
+Rolling back assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Restoring event log to previous state for source MyNewService.
+Installing assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Installing service MyNewService...
+Creating EventLog source MyNewService in log Application...
+Rolling back assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Restoring event log to previous state for source MyNewService.
+Installing assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Installing service MyNewService...
+Creating EventLog source MyNewService in log Application...
+Rolling back assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Restoring event log to previous state for source MyNewService.
+Installing assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Installing service MyNewService...
+Creating EventLog source MyNewService in log Application...
+Rolling back assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Restoring event log to previous state for source MyNewService.
+Installing assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Installing service MyNewService...
+Creating EventLog source MyNewService in log Application...
+Rolling back assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Restoring event log to previous state for source MyNewService.
+Installing assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Installing service MyNewService...
+Creating EventLog source MyNewService in log Application...
+Rolling back assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Restoring event log to previous state for source MyNewService.
+Installing assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Installing service MyNewService...
+Creating EventLog source MyNewService in log Application...
+Rolling back assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Restoring event log to previous state for source MyNewService.
+Installing assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Installing service MyNewService...
+Creating EventLog source MyNewService in log Application...
+Rolling back assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Restoring event log to previous state for source MyNewService.
+Installing assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Installing service MyNewService...
+Creating EventLog source MyNewService in log Application...
+Rolling back assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Restoring event log to previous state for source MyNewService.
+Installing assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Installing service MyNewService...
+Creating EventLog source MyNewService in log Application...
+Rolling back assembly 'D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.InstallLog
+   assemblypath = D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+Restoring event log to previous state for source MyNewService.

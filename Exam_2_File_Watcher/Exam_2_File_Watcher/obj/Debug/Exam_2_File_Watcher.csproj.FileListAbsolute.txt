@@ -1,0 +1,14 @@
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\obj\Debug\Exam_2_File_Watcher.csproj.AssemblyReference.cache
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\obj\Debug\Exam_2_File_Watcher.csproj.SuggestedBindingRedirects.cache
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\obj\Debug\Exam_2_File_Watcher.ProjectInstaller.resources
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\obj\Debug\Exam_2_File_Watcher.csproj.GenerateResource.cache
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\obj\Debug\Exam_2_File_Watcher.csproj.CoreCompileInputs.cache
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe.config
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.pdb
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\obj\Debug\Exam_2_File_Watcher.exe
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\obj\Debug\Exam_2_File_Watcher.pdb
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.exe.manifest
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\bin\Debug\Exam_2_File_Watcher.application
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\obj\Debug\Exam_2_File_Watcher.exe.manifest
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_2_File_Watcher\Exam_2_File_Watcher\obj\Debug\Exam_2_File_Watcher.application
