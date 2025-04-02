@@ -15,7 +15,7 @@ namespace Exam_1_WeatherApp
     class API
     {
         private static string main_url = "https://api.openweathermap.org/data/2.5/weather";
-        private static string APP_ID = "36c9ca1c573e2fbc9779e9425ce46bb3";
+        private static string APP_ID = "";
 
         public static WeatherInfo.root get_weather(string location)
         {
