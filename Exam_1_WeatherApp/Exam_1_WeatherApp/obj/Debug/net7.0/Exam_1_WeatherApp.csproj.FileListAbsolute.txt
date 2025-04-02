@@ -1,0 +1,17 @@
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_1_WeatherApp\Exam_1_WeatherApp\bin\Debug\net7.0\Exam_1_WeatherApp.exe
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_1_WeatherApp\Exam_1_WeatherApp\bin\Debug\net7.0\Exam_1_WeatherApp.deps.json
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_1_WeatherApp\Exam_1_WeatherApp\bin\Debug\net7.0\Exam_1_WeatherApp.runtimeconfig.json
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_1_WeatherApp\Exam_1_WeatherApp\bin\Debug\net7.0\Exam_1_WeatherApp.dll
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_1_WeatherApp\Exam_1_WeatherApp\bin\Debug\net7.0\Exam_1_WeatherApp.pdb
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_1_WeatherApp\Exam_1_WeatherApp\obj\Debug\net7.0\Exam_1_WeatherApp.csproj.AssemblyReference.cache
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_1_WeatherApp\Exam_1_WeatherApp\obj\Debug\net7.0\Exam_1_WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_1_WeatherApp\Exam_1_WeatherApp\obj\Debug\net7.0\Exam_1_WeatherApp.AssemblyInfoInputs.cache
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_1_WeatherApp\Exam_1_WeatherApp\obj\Debug\net7.0\Exam_1_WeatherApp.AssemblyInfo.cs
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_1_WeatherApp\Exam_1_WeatherApp\obj\Debug\net7.0\Exam_1_WeatherApp.csproj.CoreCompileInputs.cache
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_1_WeatherApp\Exam_1_WeatherApp\obj\Debug\net7.0\Exam_1_WeatherApp.dll
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_1_WeatherApp\Exam_1_WeatherApp\obj\Debug\net7.0\refint\Exam_1_WeatherApp.dll
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_1_WeatherApp\Exam_1_WeatherApp\obj\Debug\net7.0\Exam_1_WeatherApp.pdb
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_1_WeatherApp\Exam_1_WeatherApp\obj\Debug\net7.0\Exam_1_WeatherApp.genruntimeconfig.cache
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_1_WeatherApp\Exam_1_WeatherApp\obj\Debug\net7.0\ref\Exam_1_WeatherApp.dll
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_1_WeatherApp\Exam_1_WeatherApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Files\Documents\Personal_Files\JobHunting\Traxion\Exam\Exam_1_WeatherApp\Exam_1_WeatherApp\obj\Debug\net7.0\Exam_1_WeatherApp.csproj.CopyComplete
